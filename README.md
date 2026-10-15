@@ -44,3 +44,8 @@ Importar el repositorio o dejar que el push dispare un despliegue. Framework Nex
 
 ## Datos empresariales
 Logo/colores: basados en Brandboard SALÍPEX. Productos y presentaciones: basados en el afiche suministrado. Datos de contacto, ubicación, ficha técnica y certificaciones no confirmados y por eso no inventados.
+
+
+## Versión compacta v5
+
+Ancho máximo de contenido: 1040px, espaciado y tarjetas reducidos, hero compacto; detalles en ACTUALIZAR_GITHUB.md.
